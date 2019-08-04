@@ -2,7 +2,7 @@
 An Express and Node-based match-making application so that you can finally enjoy a fulfilling love life.
 
 ## Getting Started
-To view the site and interact with other users' data, visit...
+To view the site click the following link: https://tony6225-friend-finder.herokuapp.com/
 
 ## Prerequisites
 - Node.js/NPM install
