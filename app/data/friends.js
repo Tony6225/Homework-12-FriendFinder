@@ -1,4 +1,4 @@
-// Includes a single default profile, so that anyone demoing from the GitHub repository will have a result.
+// Includes default profiles so that anyone demoing from the GitHub repository will have results
 module.exports = [{
     "name": "Braden",
     "photo": "https://media.giphy.com/media/VBi0qdmGH0rO8/giphy.gif",
